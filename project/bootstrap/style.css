@@ -1,0 +1,60 @@
+.table {
+	width: 100%;
+	border-collapse: collapse;
+}
+.table tr {
+	height: 30px;
+}
+.table tr td {
+	padding: 5px 10px;
+}
+.table {
+	width: 100%;
+	border-collapse: collapse;
+}
+.table tr {
+	height: 30px;
+}
+.table tr td {
+	padding: 5px 10px;
+}
+header {
+	background-color: #C70039;
+	color: #fff;
+}
+header h1 {
+	float: left;
+	padding:10px 0;
+}
+header ul {
+	float: right;
+}
+header ul li {
+	display: inline-block;
+}
+header ul li a {
+	padding:20px 0 20px 15px;
+	display: inline-block;
+}
+footer {
+	padding:25px 0;
+}
+.container {
+	width: 80%;
+	margin:0 auto;
+}
+.container:after {
+	content: '';
+	display: block;
+	clear: both;
+}
+.section {
+	padding:25px 0;
+}
+.box {
+	background-color: #fff;
+	border:1px solid #ccc;
+	padding:15px;
+	box-sizing: border-box;
+	margin:10px 0 25px 0;
+}
